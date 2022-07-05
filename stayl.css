@@ -95,3 +95,22 @@ body {
     width: 80%;
     margin-top: 50px;
 }
+
+.sucel-medeya {
+    margin: 100px;
+    display: flex;
+    padding: 50px;
+    box-shadow: 10px 10px 60px gray;
+
+}
+
+.sucel-informetion {
+    margin-left: 200px;
+}
+
+footer {
+    text-align: center;
+    padding: 100px;
+    background-color: black;
+    color: azure;
+}
